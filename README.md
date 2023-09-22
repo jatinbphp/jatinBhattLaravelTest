@@ -1,4 +1,4 @@
-=> Clone repository
+=> Clone repository \n
 => Run composer install
 => Make database configuration in .env
 => Add stripe configuration in .env as well
